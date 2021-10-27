@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>kamalaknn.com</title>
+        <title>kamalaknn.dev</title>
         <meta name="description" content="More updates coming soon..." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
